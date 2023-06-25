@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.2.1">
+<file name="/Users/pvpalleti/Downloads/hw09_local_temp/src/main/java/org/cis1200/wordle/Tiles.java">
+<error line="15" column="21" severity="warning" message="Variable &apos;tiles&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="17" column="16" severity="warning" message="Variable &apos;currRow&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="19" column="16" severity="warning" message="Variable &apos;currCol&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="24" column="33" severity="warning" message="Variable &apos;wordToGuess&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+</checkstyle>
